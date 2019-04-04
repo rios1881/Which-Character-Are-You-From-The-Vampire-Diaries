@@ -1,0 +1,19 @@
+h1{
+font-family: 'verdana', cursive;
+}
+html{
+    color:pink;
+}
+h1:hover{
+    background-color:red; 
+}
+img{
+  height:500px;  
+}
+img{
+    width:700px;
+}
+html{
+    background-color:black;
+    
+}
